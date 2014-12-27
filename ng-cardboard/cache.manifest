@@ -1,0 +1,33 @@
+CACHE MANIFEST
+# Time: Sat Dec 27 2014 17:02:41 GMT+0100 (CET)
+
+
+CACHE:
+index.html
+assets/birds.mp3
+assets/dogs.mp3
+scripts/main-702e94bd.js
+scripts/modernizr-c1ff1650.js
+scripts/vendor-add9fe52.js
+styles/main-e6a0e825.css
+assets/images/Cute_Dog_Clipart.png
+assets/images/birds.png
+assets/images/dog.png
+assets/images/pano.jpg
+assets/images/pic.png
+assets/textures/gtare.jpg
+bower_components/modernizr/media/Modernizr%202%20Logo.svg
+bower_components/modernizr/test/caniuse_files/Windsong-webfont.svg
+bower_components/modernizr/test/caniuse_files/svg-img.svg
+
+
+NETWORK:
+http://*
+https://*
+*
+
+
+SETTINGS:
+prefer-online
+
+# hash: 987f72b89d69ad5e6061b8e449044a3cf45c8b0615f888f419b13735f014a660
