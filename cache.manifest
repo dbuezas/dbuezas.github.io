@@ -1,20 +1,19 @@
 CACHE MANIFEST
-# Time: Sat Dec 27 2014 17:02:41 GMT+0100 (CET)
+# Time: Tue Dec 30 2014 17:57:35 GMT+0100 (CET)
 
 
 CACHE:
 index.html
+assets/bezieer.svg
 assets/birds.mp3
 assets/dogs.mp3
-scripts/main-702e94bd.js
+scripts/main-a3c3c45e.js
 scripts/modernizr-c1ff1650.js
 scripts/vendor-add9fe52.js
-styles/main-e6a0e825.css
-assets/images/Cute_Dog_Clipart.png
+styles/main-3bb98d36.css
 assets/images/birds.png
 assets/images/dog.png
 assets/images/pano.jpg
-assets/images/pic.png
 assets/textures/gtare.jpg
 bower_components/modernizr/media/Modernizr%202%20Logo.svg
 bower_components/modernizr/test/caniuse_files/Windsong-webfont.svg
@@ -30,4 +29,4 @@ https://*
 SETTINGS:
 prefer-online
 
-# hash: 987f72b89d69ad5e6061b8e449044a3cf45c8b0615f888f419b13735f014a660
+# hash: 2b86f1462c652402f670fada92416af56b66c94d1b4c3de22967f8c9908e4e3e
